@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament, concerning the Kings Majesty, and the state of the kingdome; sent to the Generall Assembly of the Church of Scotland. : Together with a letter from the ministers of the Church of England, to the Generall Assembly of the Church of Scotland; concerning the King and the discipline of this nation. / Ordered by the Lords and Commons assembled in Parliament, that this declaration be forthwith printed and published. ; Hen. Elsynge, cler. Parl. d. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82653</idno>
+            <idno type="STC">Wing E1387</idno>
+            <idno type="STC">ESTC R206121</idno>
+            <idno type="EEBO-CITATION">45097681</idno>
+            <idno type="OCLC">ocm 45097681</idno>
+            <idno type="VID">171279</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171279)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2570:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament, concerning the Kings Majesty, and the state of the kingdome; sent to the Generall Assembly of the Church of Scotland. : Together with a letter from the ministers of the Church of England, to the Generall Assembly of the Church of Scotland; concerning the King and the discipline of this nation. / Ordered by the Lords and Commons assembled in Parliament, that this declaration be forthwith printed and published. ; Hen. Elsynge, cler. Parl. d. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Elsynge, Henry, 1598-1654.</author>
+                  <author>Church of England.</author>
+                  <author>Church of Scotland.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1648,.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped with some loss of print.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171279:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Lords and Commons ASSEMBLED IN PARLIAMENT, Concerning the Kings Majeſty, and the State of this King<g ref="char:EOLhyphen"/>dome; Sent to the Generall Aſſembly of the Church of <hi>Scotland.</hi>
+            </p>
+            <p>Together with a Letter from the Miniſters of the Church of <hi>England,</hi> to the Generall Aſſembly of the Church of <hi>Scotland;</hi> concerning the KING, and the Diſci<g ref="char:EOLhyphen"/>pline of this NATION.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords and Commons aſsembled in Parlia<g ref="char:EOLhyphen"/>ment, That this Declaration be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for R. W. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:171279:2"/>
+            <head>
+               <hi>A</hi> DECLARATION OF Both Houſes of <hi>Parliament,</hi> ſent to the Generall Aſſembly of the Church of <hi>Scotland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords and Commons in this preſent Parliament aſſembled, finding to their great grief, that the diſtra<g ref="char:EOLhyphen"/>ctions of this Kinddom do dayly increaſe, and that the wicked councell and practiſe of a malignant party amongſt us, if God prevent them not, are like to caſt this Nation in bloud and confuſion, teſti<g ref="char:EOLhyphen"/>fying to all the World how earneſtly the deſire to avoid a civill War, they have addreſſud themſelves in a humble ſupplication to his Ma<g ref="char:EOLhyphen"/>jeſty,
+<pb n="2" facs="tcp:171279:3"/>for the prevention thereof, a Copy whereof they have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hought fit to ſend to the Nationall Aſſembly of the Church of <hi>Scotland,</hi> to the intent, that the Church and king<g ref="char:EOLhyphen"/>dome, whereunto they are united by ſo many, and ſo neare bands, as well ſpirituall as civill, may ſee that the like mind <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s now in them that formerly appeared to be in that Nati<g ref="char:EOLhyphen"/>on.</p>
+            <p>And that they are as tender of the effuſion of Chriſtian bloud on the one ſide, as they are zealous on the other of due Reformation both in Church and State: in which work, while they were labouring, they have been interrup<g ref="char:EOLhyphen"/>ted by the plots and practiſes of a malignant party of Pa<g ref="char:EOLhyphen"/>piſts and other ill-affected perſons, eſpecially of the cor<g ref="char:EOLhyphen"/>rupt and diſſolute Clergy, by the incitement and inſtigation of others, whoſe avarice and ambition being not able to bear the Reformntion endeavoured hy the <hi>Parliament,</hi> they have laboured (as we can expect little better fruit from trees) to kindle a flame, and raiſe a combuſtion within the bowels of this Kingdom, which if by our ſupplication to his Majeſty, it may be preeented, and that according to our ear<g ref="char:EOLhyphen"/>neſt deſire therein, all force and warlike preparations being laid aſide, we may return to a peaceable and Parliamentary proceeding.</p>
+            <p>Wee do not doubt but by the bleſſing of God upon our endeavours, wee ſhall ſettle matters both in Church and State, to the increaſe of his Majeſties honour and ſtate, the peace and proſperity of this Kingdom, and eſpecially to the glory of God by the advancement of the true Religion, and ſuch a Reformation of the Church, as ſhall be moſt agree<g ref="char:EOLhyphen"/>able to Gods Word: out of all which there will moſt un<g ref="char:EOLhyphen"/>doubtedly reſult a juſt, ſtable, and firm union betwixt the two Kingdoms of <hi>England</hi> and <hi>Scotland,</hi> which according
+<pb facs="tcp:171279:3"/>to our Proteſtation, we ſhall by all good wayes <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon all occaſions labour to maintain and preſerve.</p>
+         </div>
+         <div type="letter">
+            <head>A Letter ſent by the Ministers of the Church of <hi>England,</hi> to the Generall Aſsembly of the Church of <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <salute>Right Reverend in our Lord and Saviour,</salute>
+            </opener>
+            <p>WEE received with much joy and ſatisfa<g ref="char:EOLhyphen"/>ction, the anſwer of your Generall Aſ<g ref="char:EOLhyphen"/>ſembly, vouchſafed us to our laſt Letters: ſome of us in the name of our Brethren, thought it re<g ref="char:EOLhyphen"/>quiſite to return our deſired thanks.</p>
+            <p>And we now further think it equall upon this occaſion, to make a more publike acknowledge<g ref="char:EOLhyphen"/>ment of ſuch a publike favour. You were then pleaſed to give us fair grounds, to expect that brotherly advice and endeavours, which the com<g ref="char:EOLhyphen"/>mon cauſe of Chriſt, and the mutuall intereſt of the united Nations commands us now againe to ask, if not to challenge. Wee doubt not, but your experience, together with your intelligence, abun<g ref="char:EOLhyphen"/>dantly informs you of our condition, what vari<g ref="char:EOLhyphen"/>ous adminiſtrations of providence we have paſſed through
+<pb facs="tcp:171279:4"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> betwixt hope and feare, <hi>a</hi> fit temper for working, the God of all grace ena<g ref="char:EOLhyphen"/>ble us to improve it. As our hopes are not ſuch, as may make us ſecure, ſo neither doe our feares prevail, to the caſting away of our confidence.</p>
+            <p>Your own late condition, together with this Declaration of our preſent, may acquaint you with the certain, though ſubtle authors and tor<g ref="char:EOLhyphen"/>menters of theſe our confuſed conflicts, which we conceive to be the Hierarchial faction, who have no way to peace and ſafety, but through the trou<g ref="char:EOLhyphen"/>ble of others. Our prayers and endeavours accor<g ref="char:EOLhyphen"/>ding to our meaſure have been, and ſhall be, for the ſuppreſſing and rooting up whatſoever wee find ſo prejudiciall to the eſtabliſhment of the Kingdom of Chriſt, and the peace of our Sove<g ref="char:EOLhyphen"/>raign, <hi>And</hi> that this Declaration of our ſelves, may not leave you unſatisfied, wee thinke it requiſite further to expreſſe, that the deſire of the moſt god<g ref="char:EOLunhyphen"/>ly and conſiderable part amongſt us, is, that the Presbyterian Government, which hath juſt and e<g ref="char:EOLhyphen"/>vident foundation, both in the Word of God, and religious reaſon may be eſtabliſhed amongſt Us, and that we may agree in one Confeſſion of faith, one directory for Worſhip, and forme of Govern<g ref="char:EOLhyphen"/>ment, which things, if they were accompliſhed,
+<pb n="5" facs="tcp:171279:4"/>we ſhould much reioyce in our happy ſubjection to Chriſt our Head, and deſired aſſociation with you our beloved Brethren. For the better effecting whereof we thought it neceſſary, not only to ac<g ref="char:EOLhyphen"/>quaint you, with what our deſires are in them<g ref="char:EOLhyphen"/>ſelves, but alſo, to you; that is, that which ſhall ſeem moſt fit to the wiſdome of that grave and re<g ref="char:EOLhyphen"/>ligious <hi>Aſſembly,</hi> may be taken for the furtherance of our endeavours in this kind. This deſign and deſire of ours hath evenneſſe on the left hand, and diſſenting brethren on the right, but we doubt not that as your hearts juſtifie us that our inten<g ref="char:EOLhyphen"/>tions are right, and ſuch as we conceive tend moſt directly to the glory of God, and peace of the Churches of the Saints: So (by your brotherly concurrence in the moſt ſpeedy and effectuall way you can find out) the worke will in gods due time receive a prayed for, and hoped for iſſue. We ſhall, not need by any arguments from mutuall, Natio<g ref="char:EOLhyphen"/>nall intereſt (though we know ye will not over<g ref="char:EOLhyphen"/>looke theſe) to enforce this requeſt, the ſame bond wherewith we are all united in one Lord Jeſus Chriſt, we are aſſured, will alone ingage you a faithfull endeavours in this buiſineſſe.</p>
+            <pb facs="tcp:171279:5"/>
+            <p> To him we commit you with theſe great and important affairs you have in hand.</p>
+            <p>Be pleaſed to accept of theſe, as the expreſ<g ref="char:EOLhyphen"/>ſion of the minds of our many godly and faith<g ref="char:EOLhyphen"/>full brethren, whoſe hearts we doubt not of, nei<g ref="char:EOLhyphen"/>ther need you, though their hands in regard of the ſuddenneſſe of this opportunity, could not he ſubſcribed together with ours, who are.</p>
+            <closer>
+               <signed>Your most affectionate Friends and Brethren is the work of the Lord. <hi>Sic ſubſcribitur.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
